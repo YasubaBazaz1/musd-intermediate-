@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">MovieRaterIntermediate</string>
+  <string name="nomovietext">You have not added a movie. "\n" Long press me to add a movie</string>
+  <string name="movie_name">Name</string>
+  <string name="movie_desc">Description</string>
+  <string name="movie_rd">Release Date</string>
+  <string name="movie_lang">Language</string>
+  <string name="reviews">Reviews</string>
+  <string name="rbtneng_text">English</string>
+  <string name="rbtnchi_text">Chinese</string>
+  <string name="rbtnmal_text">Malay</string>
+  <string name="rbtntam_text">Tamil</string>
+  <string name="chkbxvio_text">Violence</string>
+  <string name="chkbxlang_text">Language Used</string>
+  <string name="chkbxage_text">Not Suitable for all audience</string>
+
+</resources>
